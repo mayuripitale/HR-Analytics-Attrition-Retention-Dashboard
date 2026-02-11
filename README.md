@@ -1,7 +1,6 @@
-# HR-Analytics-Attrition-Retention-Dashboard
-Power BI HR Analytics dashboard analyzing employee attrition and retention trends using DAX and interactive KPIs.
-
 # 📊 HR Attrition & Retention Analysis – Power BI
+
+Power BI HR Analytics dashboard analyzing employee attrition and retention trends using DAX and interactive KPIs.
 
 ## 📌 Project Overview
 This project analyzes employee attrition data to identify key factors influencing employee turnover. An interactive Power BI dashboard was developed to provide insights into attrition trends across departments, job roles, salary levels, and experience.
